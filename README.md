@@ -65,6 +65,8 @@ I want to express my gratitude to my professor for their guidance and support th
 1. Download the project files.
 2. Open the `index.html` file in your web browser to explore the website.
 
-## The link to view my Project online
+## My site is live at
 
+1. https://rinakorca.github.io/MyPortfolioWebsite/
+   
 Thank you for taking the time to view my project!
