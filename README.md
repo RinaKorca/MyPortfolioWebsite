@@ -15,7 +15,7 @@ This is a personal portfolio website created to showcase my work, skills, and pr
 ## Features
 
 - Responsive and interactive design.
-- A fully functional contact form with validation.
+- A contact form with validation.
 - Light and dark mode toggle for better user experience.
 - Theme color change functionality to personalize the site.
 - Smooth animations and transitions for a modern look.
@@ -59,11 +59,6 @@ This project fulfills all the requirements outlined in the coursework, including
 I want to express my gratitude to my professor for their guidance and support throughout this bootcamp. Their expertise has been invaluable in helping me learn and implement these web development technologies.
 
 ---
-
-## How to View the Project
-
-1. Download the project files.
-2. Open the `index.html` file in your web browser to explore the website.
 
 ## My site is live at
 
